@@ -1,0 +1,31 @@
+_repo: Zeitgem--es--ber-Krieg-und-Tod_29941
+_version: 0.1.0
+alternative_title: Zeitgemässes über Krieg und Tod
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freud, Sigmund
+    birthdate: 1856
+    deathdate: 1939
+    gutenberg_agent_id: '391'
+    url: http://www.gutenberg.org/2009/agents/391
+    wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2009-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29941'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War'
+- !lcsh 'Psychoanalysis'
+- !lcc 'BF'
+- !lcsh 'Death'
+title: Zeitgemäßes über Krieg und Tod
+url: http://www.gutenberg.org/ebooks/29941
